@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kushjoy
-- 👀 I’m interested in IoT, Web3, ML projects
-- 🌱 I’m currently learning Solidity, JS, Python
-- 💞️ I’m looking to collaborate on Web3 projects 
+- 👀 I’m interested in IoT, ML, AI projects
+- 🌱 Working on Solidity, JS, Python, AI libs
+- 💞️ I’m looking to collaborate on AI projects 
 - 📫 Email me on mishra.kush@gmail.com
 
 <!---
