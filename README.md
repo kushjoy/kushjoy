@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @kushjoy
+- 👋 I’m Kush
 - 👀 I’m interested in cool AI projects that fix things that are broken
-- 💞️ If you're a top 1% developer, contact me on X - https://x.com/kushmishra
+- 💞️ If you think you're a top 0.001% developer, contact me on X - https://x.com/kushmishra
